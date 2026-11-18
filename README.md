@@ -1,8 +1,8 @@
-<p align="center"><img src="docs/img/hero.png" alt="FounderOS Blender Edit Machine" width="100%"></p>
+<p align="center"><img src="docs/img/banner.png" alt="FounderOS Blender Edit Machine" width="100%"></p>
 
 # Blender Edit Machine
 
-<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
+<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v2.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
 
 <p align="center"><b><a href="docs/vsl.mp4">Watch the demo (1 min 48 s)</a></b> · <a href="https://founderos.sh">founderos.sh</a></p>
 
