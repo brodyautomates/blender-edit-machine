@@ -2,7 +2,7 @@
 
 # Blender Edit Machine
 
-https://github.com/user-attachments/assets/ac685fc6-a304-4e04-b46d-ab57c3e0cb6b
+https://github.com/user-attachments/assets/72354bd2-5e70-411a-9f9d-09d1b7c5991e
 
 <p align="center"><b>The demo and cloud setup (2 min 41 s)</b> · <a href="docs/vsl.mp4">full quality file</a> · <a href="https://founderos.sh">founderos.sh</a></p>
 
