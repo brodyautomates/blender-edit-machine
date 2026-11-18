@@ -1,0 +1,5 @@
+This video was edited entirely in Blender.
+You write a script, you record your voice, and every shot lands on the word you say.
+Glass screens power on, cards lift off the screen right on cue, and ideas you don't want get crossed out.
+Then a clean call to action at the end.
+Clone the repo and make your own.

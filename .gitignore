@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+projects/*/ui/
+projects/*/stills/
+projects/*/frames/
+projects/*/frames_preview/
+projects/*/out*.mp4
+projects/*/captions.ass
+projects/*/vo.wav
+projects/*/timing.json
+.DS_Store
+!projects/example/vo.wav
+!projects/example/timing.json
