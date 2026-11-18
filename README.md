@@ -36,6 +36,17 @@ script.txt  ->  vo.wav (you record it)  ->  timing.json (word timings)
 
 <img src="docs/img/h-setup.png" alt="Setup" width="100%">
 
+### Fastest start: let Claude Code set it up
+
+In a terminal, start Claude Code (`claude`) in the folder where you keep projects and paste:
+
+```
+Clone https://github.com/brodyautomates/blender-edit-machine, follow its README to install
+everything, and check Blender, ffmpeg and Chrome are working.
+```
+
+It clones the repo, installs the requirements and tells you anything missing. Or do it by hand:
+
 ### 1. Install
 
 | Tool | Version | Get it |
@@ -65,7 +76,7 @@ Put three things in `projects/my-video/`:
 
 1. `script.txt`: what you'll say.
 2. `vo.wav`: you reading it. Any mic is fine. Keep it under 60 seconds to start.
-3. `spec.py`: the edit. Easiest: open Claude Code in the repo and say **"make the edit for projects/my-video"**.
+3. `spec.py`: the edit. Easiest: start Claude Code inside the repo folder (`cd blender-edit-machine && claude`) and say **"make the edit for projects/my-video"**. It writes the spec for you.
 
 ### 3. Word timings
 
@@ -145,7 +156,7 @@ SHOTS = [
 
 <img src="docs/img/h-claude.png" alt="Using Claude Code" width="100%">
 
-Open the repo in Claude Code and talk to it:
+Start Claude Code inside the cloned repo (`cd blender-edit-machine`, then `claude`). It reads the repo's `CLAUDE.md` and the edit skill, so it already knows how the kit works. Then just tell it what you want:
 
 - "Make the edit for `projects/my-video`." It reads your script and timings, writes `spec.py`, renders stills and shows you.
 - "The third shot is too tight, pull the camera back." It edits the spec and re-renders that still.
