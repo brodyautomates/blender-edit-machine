@@ -2,9 +2,9 @@
 
 # Render in the cloud on FounderOS computers
 
-<p align="center"><a href="vsl.mp4"><img src="img/vsl-thumb-v7.png" alt="Demo and setup video" width="100%"></a></p>
+<p align="center"><a href="vsl.mp4"><img src="img/vsl-thumb-v8.png" alt="Demo and setup video" width="100%"></a></p>
 
-> **[Watch the demo and setup video](vsl.mp4)** (2 min 44 s). The step by step screen recordings are being added.
+> **[Watch the demo and setup video](vsl.mp4)** (2 min 41 s). The step by step screen recordings are being added.
 
 A full quality render keeps your computer busy for hours. FounderOS computers run it for you in the cloud, so you can keep working, close the laptop or go to sleep.
 

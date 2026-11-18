@@ -2,9 +2,9 @@
 
 # Blender Edit Machine
 
-<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v7.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
+<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v8.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
 
-<p align="center"><b><a href="docs/vsl.mp4">Watch the demo (2 min 44 s)</a></b> · <a href="https://founderos.sh">founderos.sh</a></p>
+<p align="center"><b><a href="docs/vsl.mp4">Watch the demo (2 min 41 s)</a></b> · <a href="https://founderos.sh">founderos.sh</a></p>
 
 **Videos edited entirely in Blender, from a script.** You write the script, record your voice, and every shot lands on the exact word you say. Glass screens power on, cards lift off the screen on cue, bad ideas get crossed out, and captions burn in at the end.
 
@@ -186,6 +186,10 @@ python3 edit_machine/render.py projects/my-video --join
 ```
 
 ---
+
+## Credits
+
+The F1 car in the demo video is "[F1 2022 Generic Free](https://sketchfab.com/3d-models/f1-2022-generic-free-for-theodevf12-03a7c467b67e48ca9d0b6e9272ef0732)" by TheoDevF1 (uploaded by PostiF1), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Shown as traced line-art.
 
 ## Licence
 
