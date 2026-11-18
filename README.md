@@ -2,9 +2,9 @@
 
 # Blender Edit Machine
 
-<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v6.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
+<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v7.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
 
-<p align="center"><b><a href="docs/vsl.mp4">Watch the demo (2 min 43 s)</a></b> · <a href="https://founderos.sh">founderos.sh</a></p>
+<p align="center"><b><a href="docs/vsl.mp4">Watch the demo (2 min 44 s)</a></b> · <a href="https://founderos.sh">founderos.sh</a></p>
 
 **Videos edited entirely in Blender, from a script.** You write the script, record your voice, and every shot lands on the exact word you say. Glass screens power on, cards lift off the screen on cue, bad ideas get crossed out, and captions burn in at the end.
 
