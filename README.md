@@ -2,7 +2,7 @@
 
 # Blender Edit Machine
 
-<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v2.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
+<p align="center"><a href="docs/vsl.mp4"><img src="docs/img/vsl-thumb-v3.png" alt="Watch the demo and cloud setup video" width="100%"></a></p>
 
 <p align="center"><b><a href="docs/vsl.mp4">Watch the demo (2 min 13 s)</a></b> · <a href="https://founderos.sh">founderos.sh</a></p>
 

@@ -2,7 +2,7 @@
 
 # Render in the cloud on FounderOS computers
 
-<p align="center"><a href="vsl.mp4"><img src="img/vsl-thumb-v2.png" alt="Demo and setup video" width="100%"></a></p>
+<p align="center"><a href="vsl.mp4"><img src="img/vsl-thumb-v3.png" alt="Demo and setup video" width="100%"></a></p>
 
 > **[Watch the demo and setup video](vsl.mp4)** (2 min 13 s). The step by step screen recordings are being added.
 
