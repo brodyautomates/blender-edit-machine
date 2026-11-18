@@ -112,14 +112,10 @@ python3 edit_machine/render.py projects/my-video
 
 <img src="docs/img/h-times.png" alt="Render times" width="100%">
 
-<img src="docs/img/times.png" alt="Render times by machine" width="100%">
-
 | Machine | Per frame (full quality) | 35 second video (850 frames) |
 |---|---|---|
 | MacBook Pro M4 Pro | about 15 to 25 s | about 4 to 6 hours |
 | Mac mini M4 | about 25 to 35 s | about 6 to 8 hours |
-| 8-core cloud CPU, no GPU | about 4 min | about 55 hours on one machine |
-| 60 FounderOS computers, split with `--part` | about 230 s a frame each | about 1 hour (estimate: 850 frames / 60) |
 
 Previews are about 10 times faster. Blender renders every frame like a film, and that's why it looks this good, and why it's slow.
 
